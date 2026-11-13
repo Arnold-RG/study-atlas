@@ -1,5 +1,9 @@
 # AI & Data Scientist Study Roadmap
 
+[![Live demo](https://img.shields.io/badge/Live_demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
+
+[![Study Atlas](docs/screenshot.jpg)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
+
 [![Live atlas](https://img.shields.io/badge/live%20atlas-GitHub%20Pages-0F2744)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
 [![Palette](https://img.shields.io/badge/slate%20%2B%20teal%20%2B%20amber-F59E0B?labelColor=0F766E)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
 [![Study checks](https://img.shields.io/badge/study%20checks-pytest%20%2B%20quizzes-0F766E)](./.github/workflows/study-checks.yml)
@@ -211,7 +215,7 @@ Related roadmaps when you finish: [Python](https://roadmap.sh/python) · [Data A
 
 ## Author
 
-Arnold Rurangwa · ARNOVA Group · Computer Engineer
+Arnold Rurangwa
 
 ---
 
