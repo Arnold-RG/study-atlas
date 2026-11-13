@@ -1,7 +1,7 @@
 window.CURRICULUM = {
   source: "https://roadmap.sh/ai-data-scientist",
-  github: "https://github.com/Arnold-RG/ai-data-scientist-roadmap",
-  live: "https://arnold-rg.github.io/ai-data-scientist-roadmap/",
+  github: "https://github.com/Arnold-RG/study-atlas",
+  live: "https://arnold-rg.github.io/study-atlas/",
   stats: { stages: 10, quizzes: 12, questions: 226, projects: 10, interview: 40 },
   stages: [
     {

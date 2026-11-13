@@ -1,11 +1,11 @@
-# AI & Data Scientist Study Roadmap
+# AI & Data Scientist Study Atlas
 
-[![Live demo](https://img.shields.io/badge/Live_demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
+[![Live demo](https://img.shields.io/badge/Live_demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://arnold-rg.github.io/study-atlas/)
 
-[![Study Atlas](docs/screenshot.jpg)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
+[![Study Atlas](docs/screenshot.jpg)](https://arnold-rg.github.io/study-atlas/)
 
-[![Live atlas](https://img.shields.io/badge/live%20atlas-GitHub%20Pages-0F2744)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
-[![Palette](https://img.shields.io/badge/slate%20%2B%20teal%20%2B%20amber-F59E0B?labelColor=0F766E)](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
+[![Live atlas](https://img.shields.io/badge/live%20atlas-GitHub%20Pages-0F2744)](https://arnold-rg.github.io/study-atlas/)
+[![Palette](https://img.shields.io/badge/slate%20%2B%20teal%20%2B%20amber-F59E0B?labelColor=0F766E)](https://arnold-rg.github.io/study-atlas/)
 [![Study checks](https://img.shields.io/badge/study%20checks-pytest%20%2B%20quizzes-0F766E)](./.github/workflows/study-checks.yml)
 [![Curriculum](https://img.shields.io/badge/stages-10-0F766E)](./stages)
 [![Quizzes](https://img.shields.io/badge/quizzes-12%20banks-0F2744)](./quizzes)
@@ -14,7 +14,7 @@
 
 A full **study curriculum** for becoming an AI and Data Scientist — lessons, quizzes, checkpoint tests, interview drills, and portfolio projects.
 
-**Use it in the browser:** [https://arnold-rg.github.io/ai-data-scientist-roadmap/](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
+**Use it in the browser:** [https://arnold-rg.github.io/study-atlas/](https://arnold-rg.github.io/study-atlas/)
 
 This repository follows the official topic order on [roadmap.sh/ai-data-scientist](https://roadmap.sh/ai-data-scientist) and expands every node into something you can actually **learn, test, and build**.
 
@@ -97,7 +97,7 @@ Final exam: `python quizzes/run_quiz.py --exam`
 
 Open the public atlas:
 
-**[https://arnold-rg.github.io/ai-data-scientist-roadmap/](https://arnold-rg.github.io/ai-data-scientist-roadmap/)**
+**[https://arnold-rg.github.io/study-atlas/](https://arnold-rg.github.io/study-atlas/)**
 
 Search (Ctrl/Cmd+K), read lessons, take quizzes, follow the 12-week plan, and track progress in the browser. To run the same site locally:
 

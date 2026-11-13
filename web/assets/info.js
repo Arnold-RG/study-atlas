@@ -1,4 +1,4 @@
-window.CURRICULUM.live = "https://arnold-rg.github.io/ai-data-scientist-roadmap/";
+window.CURRICULUM.live = "https://arnold-rg.github.io/study-atlas/";
 window.CURRICULUM.stats = {
   stages: 10,
   quizzes: 12,
