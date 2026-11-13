@@ -11,7 +11,7 @@ def test_public_entry_and_base_path():
     assert "REPO_BASE" in index
     assert "web/assets/app.js" in index
     assert "og:image" in index
-    assert "https://arnold-rg.github.io/ai-data-scientist-roadmap/" in index
+    assert "https://arnold-rg.github.io/study-atlas/" in index
     web = (ROOT / "web" / "index.html").read_text(encoding="utf-8")
     assert "../index.html" in web
     missing = (ROOT / "404.html").read_text(encoding="utf-8")
@@ -36,4 +36,4 @@ def test_pages_workflow_keeps_personal_files_off_the_site():
     robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
     assert "sitemap.xml" in robots
     sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
-    assert "https://arnold-rg.github.io/ai-data-scientist-roadmap/" in sitemap
+    assert "https://arnold-rg.github.io/study-atlas/" in sitemap
