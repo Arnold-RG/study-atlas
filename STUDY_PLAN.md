@@ -2,7 +2,7 @@
 
 Two calendars. Same material. Different speed.
 
-Commands assume you already created `.venv` and installed `requirements.txt` (see the root README).
+Commands assume you already created `.venv` and installed `requirements.txt`.
 
 ## 12-week plan
 
