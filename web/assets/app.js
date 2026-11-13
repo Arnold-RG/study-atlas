@@ -311,7 +311,7 @@
         <ol class="path">${C.stages.map((s) => pathRow(s, false)).join("")}</ol>
       </section>
       <footer class="colophon">
-        <p>Arnold Rurangwa, ARNOVA Group. Topic order follows the community map. Lessons, quizzes, and projects in this repository are original study material.</p>
+        <p>Arnold Rurangwa, Vira. Topic order follows the community map. Lessons, quizzes, and projects in this repository are original study material.</p>
         <p><a href="${C.live}">${C.live}</a></p>
       </footer>
     `);
