@@ -68,13 +68,6 @@ Use least privilege, documented trust boundaries and secret scanning. Never incl
 
 **Important:** This table defines the target quality process, not a claim that every check has passed. Kubernetes is optional and should be introduced only when real backend complexity and scale justify it.
 
-## Improvement roadmap
-
-1. Expand example tests and lesson QA.
-2. Review accessibility and mobile lesson layouts.
-3. Validate Python dependency installations on supported OS runners.
-4. Link release notes to actual CI results and Pages deployments.
-
 ## Working on the project
 
 Keep changes small and reviewable. Update this README when commands or features change, attach test evidence to pull requests, maintain honest limitations and review licenses before adding assets. The repository owner approves release publication.
